@@ -10,5 +10,3 @@ There are two datasets : 1) bank-full.csv with all examples, ordered by date (fr
 
 Problem Statement - The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
-https://colab.research.google.com/drive/1F2-QRMh-3IrBpA1hkRdVmqmEBMHaY-h_
-
